@@ -1,0 +1,5 @@
+name: PluginDeVote
+version: 1  
+author: Biger-with-Farrael-s-help
+main: fr.biger.plugindevote.main
+depend: ['Rootlib']
